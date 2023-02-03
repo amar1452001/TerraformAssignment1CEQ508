@@ -8,3 +8,4 @@
 *EmpId.txt
 *Details.txt
 *71af356fbc386505
+*.terraform.lock.hcl
