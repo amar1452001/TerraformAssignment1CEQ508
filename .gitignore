@@ -1,10 +1,10 @@
-terraform.tfstate.backup
-terraform.tfstate
-bool.txt
-OfficeAddress.txt
-MyIntro.txt
-FullName.txt
-FavorateColor.txt
- EmpId.txt
- Details.txt
- 71af356fbc386505
+*terraform.tfstate.backup
+*terraform.tfstate
+*bool.txt
+*OfficeAddress.txt
+*MyIntro.txt
+*FullName.txt
+*FavorateColor.txt
+*EmpId.txt
+*Details.txt
+*71af356fbc386505
